@@ -1,0 +1,7232 @@
+{
+  "analysis_id": "analysis_20251006_130559_63cae437",
+  "timestamp": "2025-10-06T13:05:59.702632",
+  "version": "1.0",
+  "data": {
+    "transcription": "Discover the purity of nature with Daichi Kao Ghee. After trying so many brands, I finally found the purity, taste and aroma. The taste, aroma and consistency are truly amazing. Etu Kao Ghee is the purest form of the ghee. This ghee is made from the healthy, happy cows cared for in loving environments. This ghee has lots of benefits. It helps to lubricate joints, nourishes the skin and excrete weight loss and promote gut health. So if you are looking for a healthy lifestyle then use Daichi Kao Ghee in your daily routine.",
+    "language": "English",
+    "sentiment": {
+      "sentiment": "Good",
+      "score": 75,
+      "raw_label": "positive",
+      "raw_score": 0.5985603332519531
+    },
+    "human_sentiment": {
+      "facial_score": 52.5,
+      "body_score": 36.0058766938746,
+      "combined_score": 47.55176300816238,
+      "human_presence": 100.0,
+      "dominant_emotion": "sad",
+      "total_emotions_detected": 20
+    },
+    "text_vocal_sentiment": {
+      "transcript": "",
+      "text_sentiment_label": "Neutral",
+      "text_sentiment_score": 50,
+      "vocal_emotion": "Neutral",
+      "vocal_score": 50,
+      "combined_score": 50
+    },
+    "metrics": {
+      "object_duration": 5.433333333333334,
+      "object_duration_percentage": 13.69747899159664,
+      "proximity_score": 1.9439314043988372,
+      "total_frames": 1190,
+      "average_blurriness": 251.97097971511607,
+      "overall_effectiveness_score": 44.65431518332848
+    },
+    "detected_products": [
+      {
+        "name": "Cow Ghee",
+        "count": 163,
+        "confidence": null
+      }
+    ],
+    "visualization_data": {
+      "metrics": {
+        "objectDuration": 13.69747899159664,
+        "proximityScore": 1.9439314043988372,
+        "sentimentScore": 75
+      },
+      "frameData": [
+        {
+          "frameNumber": 1,
+          "proximity": 0,
+          "blurriness": 429.57573466657044,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 2,
+          "proximity": 0,
+          "blurriness": 362.4648440354325,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 3,
+          "proximity": 0,
+          "blurriness": 357.20195293877356,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 4,
+          "proximity": 0,
+          "blurriness": 356.11108892118415,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 5,
+          "proximity": 0,
+          "blurriness": 408.1159272386581,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 6,
+          "proximity": 0,
+          "blurriness": 344.2826498666629,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 7,
+          "proximity": 0,
+          "blurriness": 373.0421980020608,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 8,
+          "proximity": 0,
+          "blurriness": 351.47217847135727,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 9,
+          "proximity": 0,
+          "blurriness": 416.91727361826605,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 10,
+          "proximity": 0,
+          "blurriness": 361.65213842329865,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 11,
+          "proximity": 0,
+          "blurriness": 363.9867470507498,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 12,
+          "proximity": 0,
+          "blurriness": 353.01427205850064,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 13,
+          "proximity": 0,
+          "blurriness": 419.20267450720485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 14,
+          "proximity": 0,
+          "blurriness": 358.76685225361007,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 15,
+          "proximity": 0,
+          "blurriness": 356.74337026914253,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 16,
+          "proximity": 0,
+          "blurriness": 366.8852456876432,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 17,
+          "proximity": 0,
+          "blurriness": 425.61223279445977,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 18,
+          "proximity": 0,
+          "blurriness": 370.35186966365256,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 19,
+          "proximity": 0,
+          "blurriness": 372.10313299589,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 20,
+          "proximity": 0,
+          "blurriness": 369.7916514618646,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 21,
+          "proximity": 0,
+          "blurriness": 428.7748939188928,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 22,
+          "proximity": 0,
+          "blurriness": 379.5748885997538,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 23,
+          "proximity": 0,
+          "blurriness": 373.0134119003422,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 24,
+          "proximity": 0,
+          "blurriness": 381.87103634306413,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 25,
+          "proximity": 0,
+          "blurriness": 431.1574640814723,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 26,
+          "proximity": 0,
+          "blurriness": 371.42444088147255,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 27,
+          "proximity": 0,
+          "blurriness": 388.0576763984275,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 28,
+          "proximity": 0,
+          "blurriness": 375.8310779764091,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 29,
+          "proximity": 0,
+          "blurriness": 436.1580655372395,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 30,
+          "proximity": 0,
+          "blurriness": 377.6401470815071,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 31,
+          "proximity": 0,
+          "blurriness": 388.35837699500195,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 32,
+          "proximity": 0,
+          "blurriness": 383.38292206872745,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 33,
+          "proximity": 0,
+          "blurriness": 437.66380748106104,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 34,
+          "proximity": 0,
+          "blurriness": 387.8944707090772,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 35,
+          "proximity": 0,
+          "blurriness": 382.9945366766629,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 36,
+          "proximity": 0,
+          "blurriness": 357.4337088110112,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 37,
+          "proximity": 0,
+          "blurriness": 437.54780954277595,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 38,
+          "proximity": 0,
+          "blurriness": 374.1978871609226,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 39,
+          "proximity": 0,
+          "blurriness": 387.0483619969204,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 40,
+          "proximity": 0,
+          "blurriness": 377.68022869774705,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 41,
+          "proximity": 0,
+          "blurriness": 433.2709449566167,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 42,
+          "proximity": 0,
+          "blurriness": 369.4705105286852,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 43,
+          "proximity": 0,
+          "blurriness": 405.9437450160862,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 44,
+          "proximity": 0,
+          "blurriness": 376.7945294616493,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 45,
+          "proximity": 0,
+          "blurriness": 433.78738689103807,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 46,
+          "proximity": 0,
+          "blurriness": 382.45085112562464,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 47,
+          "proximity": 0,
+          "blurriness": 401.3679050633412,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 48,
+          "proximity": 0,
+          "blurriness": 372.71842262951185,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 49,
+          "proximity": 0,
+          "blurriness": 436.21124347404464,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 50,
+          "proximity": 0,
+          "blurriness": 373.7596405458477,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 51,
+          "proximity": 0,
+          "blurriness": 394.159505576609,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 52,
+          "proximity": 0,
+          "blurriness": 378.34511350403693,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 53,
+          "proximity": 0,
+          "blurriness": 437.20376276778165,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 54,
+          "proximity": 0,
+          "blurriness": 372.67220139907727,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 55,
+          "proximity": 0,
+          "blurriness": 403.2471415400076,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 56,
+          "proximity": 0,
+          "blurriness": 381.6501831330103,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 57,
+          "proximity": 0,
+          "blurriness": 436.5933592490543,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 58,
+          "proximity": 0,
+          "blurriness": 374.58175004567084,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 59,
+          "proximity": 0,
+          "blurriness": 399.77711740676665,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 60,
+          "proximity": 0,
+          "blurriness": 492.56676996705505,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 61,
+          "proximity": 0,
+          "blurriness": 559.8165503307345,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 62,
+          "proximity": 0,
+          "blurriness": 499.6430047977699,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 63,
+          "proximity": 0,
+          "blurriness": 488.5922016516686,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 64,
+          "proximity": 0,
+          "blurriness": 489.448368373391,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 65,
+          "proximity": 0,
+          "blurriness": 562.3178876046713,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 66,
+          "proximity": 0,
+          "blurriness": 488.78783288627056,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 67,
+          "proximity": 0,
+          "blurriness": 500.13040381562485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 68,
+          "proximity": 0,
+          "blurriness": 493.12256665817375,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 69,
+          "proximity": 0,
+          "blurriness": 558.9448783581546,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 70,
+          "proximity": 0,
+          "blurriness": 507.44325877179534,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 71,
+          "proximity": 0,
+          "blurriness": 515.8055073082314,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 72,
+          "proximity": 0,
+          "blurriness": 510.1539906017071,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 73,
+          "proximity": 0,
+          "blurriness": 561.2136382864705,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 74,
+          "proximity": 0,
+          "blurriness": 525.2928096820607,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 75,
+          "proximity": 0,
+          "blurriness": 526.714263036213,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 76,
+          "proximity": 0,
+          "blurriness": 522.6929081594926,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 77,
+          "proximity": 0,
+          "blurriness": 557.6997085371935,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 78,
+          "proximity": 0,
+          "blurriness": 514.7860521729758,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 79,
+          "proximity": 0,
+          "blurriness": 520.7051171207227,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 80,
+          "proximity": 0,
+          "blurriness": 513.4021970352904,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 81,
+          "proximity": 0,
+          "blurriness": 554.4396261576317,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 82,
+          "proximity": 0,
+          "blurriness": 505.24026435149574,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 83,
+          "proximity": 0,
+          "blurriness": 503.7726293097694,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 84,
+          "proximity": 0,
+          "blurriness": 504.014114054579,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 85,
+          "proximity": 0,
+          "blurriness": 550.6280067838485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 86,
+          "proximity": 0,
+          "blurriness": 498.7096143852212,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 87,
+          "proximity": 0,
+          "blurriness": 502.124309613068,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 88,
+          "proximity": 0,
+          "blurriness": 499.9590161489851,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 89,
+          "proximity": 0,
+          "blurriness": 553.5635499124913,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 90,
+          "proximity": 0,
+          "blurriness": 495.8506967712073,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 91,
+          "proximity": 0,
+          "blurriness": 501.26098320362934,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 92,
+          "proximity": 0,
+          "blurriness": 495.93951756462525,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 93,
+          "proximity": 0,
+          "blurriness": 545.005518627355,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 94,
+          "proximity": 0,
+          "blurriness": 482.5860835523836,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 95,
+          "proximity": 0,
+          "blurriness": 510.0689015420992,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 96,
+          "proximity": 0,
+          "blurriness": 481.22494614957327,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 97,
+          "proximity": 0,
+          "blurriness": 543.649419728685,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 98,
+          "proximity": 0,
+          "blurriness": 482.571950720123,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 99,
+          "proximity": 0,
+          "blurriness": 502.092482671957,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 100,
+          "proximity": 0,
+          "blurriness": 481.1080579341753,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 101,
+          "proximity": 0,
+          "blurriness": 541.2121446532834,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 102,
+          "proximity": 0,
+          "blurriness": 457.3486881896154,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 103,
+          "proximity": 0,
+          "blurriness": 515.2202617839293,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 104,
+          "proximity": 0,
+          "blurriness": 492.78250386527867,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 105,
+          "proximity": 0,
+          "blurriness": 544.2937507264552,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 106,
+          "proximity": 0,
+          "blurriness": 478.8186378499962,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 107,
+          "proximity": 0,
+          "blurriness": 505.3199834375972,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 108,
+          "proximity": 0,
+          "blurriness": 479.50586938620137,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 109,
+          "proximity": 0,
+          "blurriness": 548.6282090140369,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 110,
+          "proximity": 0,
+          "blurriness": 493.9313703085121,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 111,
+          "proximity": 0,
+          "blurriness": 500.92202716602856,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 112,
+          "proximity": 0,
+          "blurriness": 501.3340722823489,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 113,
+          "proximity": 0,
+          "blurriness": 550.1308920979777,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 114,
+          "proximity": 0,
+          "blurriness": 490.0057208550405,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 115,
+          "proximity": 0,
+          "blurriness": 517.1923254813379,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 116,
+          "proximity": 0,
+          "blurriness": 487.1001823470934,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 117,
+          "proximity": 0,
+          "blurriness": 551.5605528523489,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 118,
+          "proximity": 0,
+          "blurriness": 484.44876853331795,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 119,
+          "proximity": 0,
+          "blurriness": 521.5057477174587,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 120,
+          "proximity": 0,
+          "blurriness": 498.1567291385006,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 121,
+          "proximity": 0,
+          "blurriness": 554.8404502558668,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 122,
+          "proximity": 0,
+          "blurriness": 497.43596842869664,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 123,
+          "proximity": 0,
+          "blurriness": 519.6944914426721,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 124,
+          "proximity": 0,
+          "blurriness": 483.5884175346368,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 125,
+          "proximity": 0,
+          "blurriness": 555.7538567841254,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 126,
+          "proximity": 0,
+          "blurriness": 480.52945920460996,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 127,
+          "proximity": 0,
+          "blurriness": 520.1801533699308,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 128,
+          "proximity": 0,
+          "blurriness": 490.61244039855444,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 129,
+          "proximity": 0,
+          "blurriness": 558.3542108188544,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 130,
+          "proximity": 0,
+          "blurriness": 503.95486197345633,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 131,
+          "proximity": 0,
+          "blurriness": 523.5340035847137,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 132,
+          "proximity": 0,
+          "blurriness": 494.13593387218754,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 133,
+          "proximity": 0,
+          "blurriness": 554.0921250561476,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 134,
+          "proximity": 0,
+          "blurriness": 490.07196054402147,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 135,
+          "proximity": 0,
+          "blurriness": 506.4139253656286,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 136,
+          "proximity": 0,
+          "blurriness": 479.4286840313686,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 137,
+          "proximity": 0,
+          "blurriness": 534.342562491161,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 138,
+          "proximity": 0,
+          "blurriness": 478.0618290494077,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 139,
+          "proximity": 0,
+          "blurriness": 498.77405428064594,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 140,
+          "proximity": 0,
+          "blurriness": 481.93602364379467,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 141,
+          "proximity": 0,
+          "blurriness": 433.12429305391777,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 142,
+          "proximity": 0,
+          "blurriness": 372.5203318266975,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 143,
+          "proximity": 0,
+          "blurriness": 392.8550471087082,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 144,
+          "proximity": 0,
+          "blurriness": 383.7113001223529,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 145,
+          "proximity": 0,
+          "blurriness": 427.8683480498847,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 146,
+          "proximity": 0,
+          "blurriness": 365.32998514994233,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 147,
+          "proximity": 0,
+          "blurriness": 387.0549016981775,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 148,
+          "proximity": 0,
+          "blurriness": 371.0448611379893,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 149,
+          "proximity": 0,
+          "blurriness": 430.3107657359131,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 150,
+          "proximity": 0,
+          "blurriness": 426.00862726012684,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 151,
+          "proximity": 0,
+          "blurriness": 513.1864016593619,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 152,
+          "proximity": 0,
+          "blurriness": 431.07354379255673,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 153,
+          "proximity": 0,
+          "blurriness": 449.4431152650479,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 154,
+          "proximity": 0,
+          "blurriness": 407.4568794650941,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 155,
+          "proximity": 0,
+          "blurriness": 484.15709194457514,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 156,
+          "proximity": 0,
+          "blurriness": 399.52697089125724,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 157,
+          "proximity": 0,
+          "blurriness": 433.63743388049204,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 158,
+          "proximity": 0,
+          "blurriness": 400.44431321952703,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 159,
+          "proximity": 0,
+          "blurriness": 468.5814228382314,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 160,
+          "proximity": 0,
+          "blurriness": 416.89164847895034,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 161,
+          "proximity": 0,
+          "blurriness": 458.23252939398685,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 162,
+          "proximity": 0,
+          "blurriness": 343.00275916991916,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 163,
+          "proximity": 0,
+          "blurriness": 350.3849918848288,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 164,
+          "proximity": 0,
+          "blurriness": 336.24671451901577,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 165,
+          "proximity": 0,
+          "blurriness": 329.1902290526874,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 166,
+          "proximity": 0,
+          "blurriness": 317.3259786682661,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 167,
+          "proximity": 0,
+          "blurriness": 344.89975648621305,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 168,
+          "proximity": 0,
+          "blurriness": 315.62543740068804,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 169,
+          "proximity": 0,
+          "blurriness": 327.2049688052249,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 170,
+          "proximity": 0,
+          "blurriness": 316.2362744864129,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 171,
+          "proximity": 0,
+          "blurriness": 338.43755131680126,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 172,
+          "proximity": 0,
+          "blurriness": 316.32092133785096,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 173,
+          "proximity": 0,
+          "blurriness": 325.00776637591315,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 174,
+          "proximity": 0,
+          "blurriness": 309.34718427829296,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 175,
+          "proximity": 0,
+          "blurriness": 329.14829411504803,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 176,
+          "proximity": 0,
+          "blurriness": 306.97788989033455,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 177,
+          "proximity": 0,
+          "blurriness": 324.3674977220299,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 178,
+          "proximity": 0,
+          "blurriness": 318.5087922546559,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 179,
+          "proximity": 0,
+          "blurriness": 350.2923578624798,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 180,
+          "proximity": 0,
+          "blurriness": 331.10905914490957,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 181,
+          "proximity": 0,
+          "blurriness": 349.7065208968705,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 182,
+          "proximity": 0,
+          "blurriness": 341.618168416932,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 183,
+          "proximity": 0,
+          "blurriness": 372.47021981451746,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 184,
+          "proximity": 0,
+          "blurriness": 339.0848487904613,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 185,
+          "proximity": 0,
+          "blurriness": 360.9052348600693,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 186,
+          "proximity": 0,
+          "blurriness": 352.81602911666283,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 187,
+          "proximity": 0,
+          "blurriness": 381.6621448177624,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 188,
+          "proximity": 0,
+          "blurriness": 349.4284201891542,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 189,
+          "proximity": 0,
+          "blurriness": 376.8425938268936,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 190,
+          "proximity": 0,
+          "blurriness": 361.6587140296041,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 191,
+          "proximity": 0,
+          "blurriness": 400.5428767977701,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 192,
+          "proximity": 0,
+          "blurriness": 360.9398682112995,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 193,
+          "proximity": 0,
+          "blurriness": 378.87405014785077,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 194,
+          "proximity": 0,
+          "blurriness": 360.90743137068824,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 195,
+          "proximity": 0,
+          "blurriness": 392.4502573006535,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 196,
+          "proximity": 0,
+          "blurriness": 334.1130697389466,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 197,
+          "proximity": 0,
+          "blurriness": 351.58684992993085,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 198,
+          "proximity": 0,
+          "blurriness": 338.5507156317725,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 199,
+          "proximity": 0,
+          "blurriness": 382.1389725394079,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 200,
+          "proximity": 0,
+          "blurriness": 362.03697976700886,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 201,
+          "proximity": 0,
+          "blurriness": 353.6097397615341,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 202,
+          "proximity": 0,
+          "blurriness": 349.6422487005152,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 203,
+          "proximity": 0,
+          "blurriness": 396.41835221068817,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 204,
+          "proximity": 0,
+          "blurriness": 361.7961187139561,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 205,
+          "proximity": 0,
+          "blurriness": 377.01448952623986,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 206,
+          "proximity": 0,
+          "blurriness": 357.77496209042295,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 207,
+          "proximity": 0,
+          "blurriness": 395.7243370688196,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 208,
+          "proximity": 0,
+          "blurriness": 351.02880979542863,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 209,
+          "proximity": 0,
+          "blurriness": 370.3343194846559,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 210,
+          "proximity": 0,
+          "blurriness": 359.14096379029604,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 211,
+          "proximity": 0,
+          "blurriness": 390.72153490395624,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 212,
+          "proximity": 0,
+          "blurriness": 363.46780197253355,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 213,
+          "proximity": 0,
+          "blurriness": 371.32722338171465,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 214,
+          "proximity": 0,
+          "blurriness": 363.78412149751637,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 215,
+          "proximity": 0,
+          "blurriness": 393.3639382812418,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 216,
+          "proximity": 0,
+          "blurriness": 368.1309348088236,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 217,
+          "proximity": 0,
+          "blurriness": 378.6795992407498,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 218,
+          "proximity": 0,
+          "blurriness": 373.23792945444063,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 219,
+          "proximity": 0,
+          "blurriness": 392.2917256307228,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 220,
+          "proximity": 0,
+          "blurriness": 364.2846609007267,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 221,
+          "proximity": 0,
+          "blurriness": 371.1384372240485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 222,
+          "proximity": 0,
+          "blurriness": 362.7573040970551,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 223,
+          "proximity": 0,
+          "blurriness": 396.5727185032834,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 224,
+          "proximity": 0,
+          "blurriness": 363.72537467557095,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 225,
+          "proximity": 0,
+          "blurriness": 370.9832191910804,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 226,
+          "proximity": 0,
+          "blurriness": 357.3272608150366,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 227,
+          "proximity": 0,
+          "blurriness": 391.2521095054172,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 228,
+          "proximity": 0,
+          "blurriness": 358.0857553058015,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 229,
+          "proximity": 0,
+          "blurriness": 377.05734035745866,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 230,
+          "proximity": 0,
+          "blurriness": 279.18004889465595,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 231,
+          "proximity": 0,
+          "blurriness": 278.25316496386006,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 232,
+          "proximity": 0,
+          "blurriness": 285.29001471587856,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 233,
+          "proximity": 0,
+          "blurriness": 309.2797209042522,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 234,
+          "proximity": 0,
+          "blurriness": 302.54961130241827,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 235,
+          "proximity": 0,
+          "blurriness": 342.6284137830643,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 236,
+          "proximity": 0,
+          "blurriness": 333.86292862735485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 237,
+          "proximity": 0,
+          "blurriness": 335.40936960697815,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 238,
+          "proximity": 0,
+          "blurriness": 344.07771683782784,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 239,
+          "proximity": 0,
+          "blurriness": 358.0404221144753,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 240,
+          "proximity": 0,
+          "blurriness": 345.66307940868506,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 241,
+          "proximity": 0,
+          "blurriness": 357.76031365720485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 242,
+          "proximity": 0,
+          "blurriness": 339.186510563318,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 243,
+          "proximity": 0,
+          "blurriness": 365.557822743218,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 244,
+          "proximity": 0,
+          "blurriness": 353.8916064405382,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 245,
+          "proximity": 0,
+          "blurriness": 369.73114966464817,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 246,
+          "proximity": 0,
+          "blurriness": 355.4249733762054,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 247,
+          "proximity": 0,
+          "blurriness": 389.2107289879892,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 248,
+          "proximity": 0,
+          "blurriness": 359.9808842140676,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 249,
+          "proximity": 0,
+          "blurriness": 373.4252015084622,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 250,
+          "proximity": 0,
+          "blurriness": 143.57126380896185,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 251,
+          "proximity": 0,
+          "blurriness": 170.04298285563632,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 252,
+          "proximity": 0,
+          "blurriness": 151.02179954306422,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 253,
+          "proximity": 0,
+          "blurriness": 148.78900200759705,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 254,
+          "proximity": 0,
+          "blurriness": 135.94393231081895,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 255,
+          "proximity": 0,
+          "blurriness": 172.49626236307574,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 256,
+          "proximity": 0,
+          "blurriness": 145.30736509933112,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 257,
+          "proximity": 0,
+          "blurriness": 150.19339114829293,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 258,
+          "proximity": 0,
+          "blurriness": 139.4800686581738,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 259,
+          "proximity": 0,
+          "blurriness": 174.01921485544014,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 260,
+          "proximity": 0,
+          "blurriness": 130.94914080267202,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 261,
+          "proximity": 0,
+          "blurriness": 148.51911651371012,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 262,
+          "proximity": 0,
+          "blurriness": 137.24933533016147,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 263,
+          "proximity": 0,
+          "blurriness": 179.81306539177248,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 264,
+          "proximity": 0,
+          "blurriness": 518.7398391748404,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 265,
+          "proximity": 0,
+          "blurriness": 544.821358686413,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 266,
+          "proximity": 0,
+          "blurriness": 512.1441562575892,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 267,
+          "proximity": 0,
+          "blurriness": 564.1913328474857,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 268,
+          "proximity": 0,
+          "blurriness": 511.87414165530174,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 269,
+          "proximity": 0,
+          "blurriness": 531.8564711414996,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 270,
+          "proximity": 0,
+          "blurriness": 518.0483465219685,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 271,
+          "proximity": 0,
+          "blurriness": 560.6354736313571,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 272,
+          "proximity": 0,
+          "blurriness": 523.044255360919,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 273,
+          "proximity": 0,
+          "blurriness": 538.1614785350827,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 274,
+          "proximity": 0,
+          "blurriness": 532.5331720183585,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 275,
+          "proximity": 0,
+          "blurriness": 563.7633848091657,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 276,
+          "proximity": 0,
+          "blurriness": 539.5770697817724,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 277,
+          "proximity": 0,
+          "blurriness": 532.4863666528104,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 278,
+          "proximity": 0,
+          "blurriness": 521.6951998608189,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 279,
+          "proximity": 0,
+          "blurriness": 554.7958595174009,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 280,
+          "proximity": 0,
+          "blurriness": 522.0376088085774,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 281,
+          "proximity": 0,
+          "blurriness": 527.6876858665282,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 282,
+          "proximity": 0,
+          "blurriness": 514.2362150264667,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 283,
+          "proximity": 0,
+          "blurriness": 552.315562645613,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 284,
+          "proximity": 0,
+          "blurriness": 510.95437498038825,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 285,
+          "proximity": 0,
+          "blurriness": 513.2500284677855,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 286,
+          "proximity": 0,
+          "blurriness": 512.2587542950826,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 287,
+          "proximity": 0,
+          "blurriness": 548.2956700541482,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 288,
+          "proximity": 0,
+          "blurriness": 518.5957941905267,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 289,
+          "proximity": 0,
+          "blurriness": 540.568979978762,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 290,
+          "proximity": 0,
+          "blurriness": 540.5334858611149,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 291,
+          "proximity": 0,
+          "blurriness": 545.6272078342793,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 292,
+          "proximity": 0,
+          "blurriness": 500.5967048995578,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 293,
+          "proximity": 0,
+          "blurriness": 515.5232035882198,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 294,
+          "proximity": 0,
+          "blurriness": 500.5003077199502,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 295,
+          "proximity": 0,
+          "blurriness": 541.4988363605959,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 296,
+          "proximity": 0,
+          "blurriness": 498.6226968834717,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 297,
+          "proximity": 0,
+          "blurriness": 513.4832567813571,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 298,
+          "proximity": 0,
+          "blurriness": 502.2927139506189,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 299,
+          "proximity": 0,
+          "blurriness": 533.4434216990043,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 300,
+          "proximity": 0,
+          "blurriness": 529.5436988969626,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 301,
+          "proximity": 0,
+          "blurriness": 615.0754980181623,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 302,
+          "proximity": 0,
+          "blurriness": 576.7656431184158,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 303,
+          "proximity": 0,
+          "blurriness": 576.7442429477738,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 304,
+          "proximity": 0,
+          "blurriness": 555.0302190148983,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 305,
+          "proximity": 0,
+          "blurriness": 598.2476542620185,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 306,
+          "proximity": 0,
+          "blurriness": 554.3907437449597,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 307,
+          "proximity": 0,
+          "blurriness": 565.7648706352326,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 308,
+          "proximity": 0,
+          "blurriness": 554.9513091605961,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 309,
+          "proximity": 0,
+          "blurriness": 589.0183329333911,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 310,
+          "proximity": 0,
+          "blurriness": 540.6666704994082,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 311,
+          "proximity": 0,
+          "blurriness": 561.0288653855248,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 312,
+          "proximity": 0,
+          "blurriness": 548.0019154414417,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 313,
+          "proximity": 0,
+          "blurriness": 581.4043360783352,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 314,
+          "proximity": 0,
+          "blurriness": 559.782273206609,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 315,
+          "proximity": 0,
+          "blurriness": 551.4439640155479,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 316,
+          "proximity": 0,
+          "blurriness": 543.0299892793503,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 317,
+          "proximity": 0,
+          "blurriness": 573.1697815634599,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 318,
+          "proximity": 0,
+          "blurriness": 547.5513666509651,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 319,
+          "proximity": 0,
+          "blurriness": 550.021592006213,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 320,
+          "proximity": 0,
+          "blurriness": 539.1659759479586,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 321,
+          "proximity": 0,
+          "blurriness": 569.2614739087426,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 322,
+          "proximity": 0,
+          "blurriness": 538.1793324862592,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 323,
+          "proximity": 0,
+          "blurriness": 563.1956955032066,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 324,
+          "proximity": 0,
+          "blurriness": 562.2058739291002,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 325,
+          "proximity": 0,
+          "blurriness": 499.19729634515573,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 326,
+          "proximity": 0,
+          "blurriness": 491.0756087634563,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 327,
+          "proximity": 0,
+          "blurriness": 492.90435151233766,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 328,
+          "proximity": 0,
+          "blurriness": 491.0134956925452,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 329,
+          "proximity": 0,
+          "blurriness": 496.67562448562467,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 330,
+          "proximity": 0,
+          "blurriness": 487.87169597643606,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 331,
+          "proximity": 0,
+          "blurriness": 493.40410873208776,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 332,
+          "proximity": 0,
+          "blurriness": 492.7331230049366,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 333,
+          "proximity": 0,
+          "blurriness": 502.1426852694194,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 334,
+          "proximity": 0,
+          "blurriness": 493.7487140966974,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 335,
+          "proximity": 0,
+          "blurriness": 500.37438395841593,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 336,
+          "proximity": 0,
+          "blurriness": 497.1671080883353,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 337,
+          "proximity": 0,
+          "blurriness": 506.83750826272967,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 338,
+          "proximity": 0,
+          "blurriness": 499.4788700750634,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 339,
+          "proximity": 0,
+          "blurriness": 504.81713737779313,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 340,
+          "proximity": 0,
+          "blurriness": 500.6723225288581,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 341,
+          "proximity": 0,
+          "blurriness": 511.55612770559014,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 342,
+          "proximity": 0,
+          "blurriness": 502.8942358864706,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 343,
+          "proximity": 0,
+          "blurriness": 511.23104246855445,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 344,
+          "proximity": 0,
+          "blurriness": 506.88944460960795,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 345,
+          "proximity": 0,
+          "blurriness": 516.7728266647866,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 346,
+          "proximity": 0,
+          "blurriness": 511.07518428221454,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 347,
+          "proximity": 0,
+          "blurriness": 512.5319118415993,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 348,
+          "proximity": 0,
+          "blurriness": 508.54277956441376,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 349,
+          "proximity": 0,
+          "blurriness": 519.0182682411034,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 350,
+          "proximity": 0,
+          "blurriness": 512.4697659660746,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 351,
+          "proximity": 0,
+          "blurriness": 512.8759323170934,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 352,
+          "proximity": 0,
+          "blurriness": 512.0665302039176,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 353,
+          "proximity": 0,
+          "blurriness": 521.3149848211265,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 354,
+          "proximity": 0,
+          "blurriness": 512.4627254964666,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 355,
+          "proximity": 0,
+          "blurriness": 262.0085137077124,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 356,
+          "proximity": 0,
+          "blurriness": 255.29366248519804,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 357,
+          "proximity": 0,
+          "blurriness": 269.5062401086928,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 358,
+          "proximity": 0,
+          "blurriness": 261.41208812806997,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 359,
+          "proximity": 0,
+          "blurriness": 264.6260901141253,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 360,
+          "proximity": 0,
+          "blurriness": 259.7555390597309,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 361,
+          "proximity": 0,
+          "blurriness": 271.9458723275663,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 362,
+          "proximity": 0,
+          "blurriness": 258.03856808208764,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 363,
+          "proximity": 0,
+          "blurriness": 256.29104960293733,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 364,
+          "proximity": 0,
+          "blurriness": 250.2352905328681,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 365,
+          "proximity": 0,
+          "blurriness": 258.48879871243366,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 366,
+          "proximity": 0,
+          "blurriness": 244.2862910034602,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 367,
+          "proximity": 0,
+          "blurriness": 240.06541154552488,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 368,
+          "proximity": 0,
+          "blurriness": 235.056295357597,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 369,
+          "proximity": 0,
+          "blurriness": 232.3741350033641,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 370,
+          "proximity": 0,
+          "blurriness": 228.9704409185659,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 371,
+          "proximity": 0,
+          "blurriness": 229.43497254508262,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 372,
+          "proximity": 0,
+          "blurriness": 216.40292481843906,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 373,
+          "proximity": 0,
+          "blurriness": 204.25140383913495,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 374,
+          "proximity": 0,
+          "blurriness": 198.21002276464438,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 375,
+          "proximity": 0,
+          "blurriness": 194.89040766706646,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 376,
+          "proximity": 0,
+          "blurriness": 192.03001560655133,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 377,
+          "proximity": 0,
+          "blurriness": 191.6478329756824,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 378,
+          "proximity": 0,
+          "blurriness": 185.27833453277586,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 379,
+          "proximity": 0,
+          "blurriness": 185.20392545236064,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 380,
+          "proximity": 0,
+          "blurriness": 183.87151956382544,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 381,
+          "proximity": 0,
+          "blurriness": 189.17793890657055,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 382,
+          "proximity": 0,
+          "blurriness": 188.67677852973475,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 383,
+          "proximity": 0,
+          "blurriness": 189.7379354244521,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 384,
+          "proximity": 0,
+          "blurriness": 185.45551031055368,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 385,
+          "proximity": 0,
+          "blurriness": 191.39158107293733,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 386,
+          "proximity": 0,
+          "blurriness": 186.64402143704348,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 387,
+          "proximity": 0,
+          "blurriness": 191.39025636170325,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 388,
+          "proximity": 0,
+          "blurriness": 190.03853696203004,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 389,
+          "proximity": 0,
+          "blurriness": 194.5103039010803,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 390,
+          "proximity": 0,
+          "blurriness": 189.18977247366396,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 391,
+          "proximity": 0,
+          "blurriness": 195.0555642769858,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 392,
+          "proximity": 0,
+          "blurriness": 192.1440847966167,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 393,
+          "proximity": 0,
+          "blurriness": 202.16126993223767,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 394,
+          "proximity": 0,
+          "blurriness": 198.32437645065744,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 395,
+          "proximity": 0,
+          "blurriness": 201.4904975353941,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 396,
+          "proximity": 0,
+          "blurriness": 198.7703477879431,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 397,
+          "proximity": 0,
+          "blurriness": 212.47249534421758,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 398,
+          "proximity": 0,
+          "blurriness": 209.0698009725144,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 399,
+          "proximity": 0,
+          "blurriness": 214.12259252807,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 400,
+          "proximity": 0,
+          "blurriness": 212.73994724183004,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 401,
+          "proximity": 0,
+          "blurriness": 221.24767707404465,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 402,
+          "proximity": 0,
+          "blurriness": 204.09726452484043,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 403,
+          "proximity": 0,
+          "blurriness": 218.10762155939634,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 404,
+          "proximity": 0,
+          "blurriness": 217.22092938955785,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 405,
+          "proximity": 0,
+          "blurriness": 225.05619607098808,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 406,
+          "proximity": 0,
+          "blurriness": 217.50920769544027,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 407,
+          "proximity": 0,
+          "blurriness": 219.75595574163782,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 408,
+          "proximity": 0,
+          "blurriness": 213.6215549013111,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 409,
+          "proximity": 0,
+          "blurriness": 229.9194097716263,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 410,
+          "proximity": 0,
+          "blurriness": 221.78475165673203,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 411,
+          "proximity": 0,
+          "blurriness": 225.37295578500192,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 412,
+          "proximity": 0,
+          "blurriness": 215.13877628450592,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 413,
+          "proximity": 0,
+          "blurriness": 229.98804106404845,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 414,
+          "proximity": 0,
+          "blurriness": 219.67287037045745,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 415,
+          "proximity": 0,
+          "blurriness": 221.82937446412538,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 416,
+          "proximity": 0,
+          "blurriness": 217.28207413554787,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 417,
+          "proximity": 0,
+          "blurriness": 230.79969200460968,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 418,
+          "proximity": 0,
+          "blurriness": 221.4220053645175,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 419,
+          "proximity": 0,
+          "blurriness": 217.57678235207615,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 420,
+          "proximity": 0,
+          "blurriness": 215.41355285696272,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 421,
+          "proximity": 0,
+          "blurriness": 231.15856055915415,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 422,
+          "proximity": 0,
+          "blurriness": 214.13097762841608,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 423,
+          "proximity": 0,
+          "blurriness": 230.7760492648058,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 424,
+          "proximity": 0,
+          "blurriness": 225.73822014669742,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 425,
+          "proximity": 0,
+          "blurriness": 227.4521555153249,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 426,
+          "proximity": 0,
+          "blurriness": 208.96905603856595,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 427,
+          "proximity": 0,
+          "blurriness": 215.29128627057284,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 428,
+          "proximity": 0,
+          "blurriness": 206.91765859275276,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 429,
+          "proximity": 0,
+          "blurriness": 65.26070807981161,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 430,
+          "proximity": 0,
+          "blurriness": 50.62201862900421,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 431,
+          "proximity": 0,
+          "blurriness": 53.14202314738945,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 432,
+          "proximity": 0,
+          "blurriness": 47.00116157323721,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 433,
+          "proximity": 0,
+          "blurriness": 67.29156177236062,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 434,
+          "proximity": 0,
+          "blurriness": 55.573528694256076,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 435,
+          "proximity": 0,
+          "blurriness": 54.581463845717046,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 436,
+          "proximity": 0,
+          "blurriness": 55.09063334071125,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 437,
+          "proximity": 0,
+          "blurriness": 68.9981613191811,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 438,
+          "proximity": 0,
+          "blurriness": 58.45681629286812,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 439,
+          "proximity": 0,
+          "blurriness": 59.8553202930565,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 440,
+          "proximity": 0,
+          "blurriness": 52.94909407764705,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 441,
+          "proximity": 0,
+          "blurriness": 72.2495538532526,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 442,
+          "proximity": 167244.0,
+          "blurriness": 208.0558728954095,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 443,
+          "proximity": 168432.0,
+          "blurriness": 210.56542805978862,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 444,
+          "proximity": 170556.0,
+          "blurriness": 153.33586862741637,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 445,
+          "proximity": 173394.0,
+          "blurriness": 227.30111853194538,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 446,
+          "proximity": 174370.0,
+          "blurriness": 190.64349351474044,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 447,
+          "proximity": 175032.0,
+          "blurriness": 157.91988628964245,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 448,
+          "proximity": 174564.0,
+          "blurriness": 173.72888966974244,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 449,
+          "proximity": 174798.0,
+          "blurriness": 211.24194503527875,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 450,
+          "proximity": 177987.0,
+          "blurriness": 199.72175423961556,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 451,
+          "proximity": 180240.0,
+          "blurriness": 269.8240090793388,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 452,
+          "proximity": 181016.0,
+          "blurriness": 235.48000712339865,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 453,
+          "proximity": 180509.0,
+          "blurriness": 213.02971236739327,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 454,
+          "proximity": 180000.0,
+          "blurriness": 187.0717842915187,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 455,
+          "proximity": 179728.0,
+          "blurriness": 254.1446912295118,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 456,
+          "proximity": 184262.0,
+          "blurriness": 188.33687077202615,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 457,
+          "proximity": 181780.0,
+          "blurriness": 201.49861576316798,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 458,
+          "proximity": 183732.0,
+          "blurriness": 192.1904691156286,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 459,
+          "proximity": 177987.0,
+          "blurriness": 251.8451378463053,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 460,
+          "proximity": 183708.0,
+          "blurriness": 181.66001065051523,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 461,
+          "proximity": 179489.0,
+          "blurriness": 197.31104430815455,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 462,
+          "proximity": 180880.0,
+          "blurriness": 161.99772322583237,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 463,
+          "proximity": 189500.0,
+          "blurriness": 245.88633203290655,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 464,
+          "proximity": 181356.0,
+          "blurriness": 171.4002899536755,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 465,
+          "proximity": 179070.0,
+          "blurriness": 194.51332391541712,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 466,
+          "proximity": 179244.0,
+          "blurriness": 161.9035502669896,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 467,
+          "proximity": 178478.0,
+          "blurriness": 238.61191182264898,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 468,
+          "proximity": 183438.0,
+          "blurriness": 177.27959210689738,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 469,
+          "proximity": 182206.0,
+          "blurriness": 336.029709455867,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 470,
+          "proximity": 183456.0,
+          "blurriness": 309.04637969795846,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 471,
+          "proximity": 182905.0,
+          "blurriness": 371.05536628835057,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 472,
+          "proximity": 185732.0,
+          "blurriness": 320.0078965259516,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 473,
+          "proximity": 185180.0,
+          "blurriness": 324.7907445960438,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 474,
+          "proximity": 187620.0,
+          "blurriness": 306.1970078418915,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 475,
+          "proximity": 187295.0,
+          "blurriness": 365.68725184894646,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 476,
+          "proximity": 188092.0,
+          "blurriness": 324.07877979921193,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 477,
+          "proximity": 189036.0,
+          "blurriness": 321.60637010915406,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 478,
+          "proximity": 194922.0,
+          "blurriness": 320.9709173224106,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 479,
+          "proximity": 193520.0,
+          "blurriness": 363.59351499846207,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 480,
+          "proximity": 195999.0,
+          "blurriness": 315.0698229973701,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 481,
+          "proximity": 203628.0,
+          "blurriness": 315.4295173695925,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 482,
+          "proximity": 203389.0,
+          "blurriness": 297.0586894105959,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 483,
+          "proximity": 205920.0,
+          "blurriness": 354.21311051866206,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 484,
+          "proximity": 207600.0,
+          "blurriness": 290.7032053329488,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 485,
+          "proximity": 210480.0,
+          "blurriness": 314.206326429158,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 486,
+          "proximity": 211276.0,
+          "blurriness": 286.9450440294925,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 487,
+          "proximity": 211167.0,
+          "blurriness": 345.8305026942522,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 488,
+          "proximity": 212164.0,
+          "blurriness": 301.5898039211842,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 489,
+          "proximity": 212872.0,
+          "blurriness": 336.7243604096732,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 490,
+          "proximity": 214959.0,
+          "blurriness": 332.65068823249135,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 491,
+          "proximity": 0,
+          "blurriness": 236.63546214219147,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 492,
+          "proximity": 261090.0,
+          "blurriness": 222.97298205794309,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 493,
+          "proximity": 0,
+          "blurriness": 227.01131534713954,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 494,
+          "proximity": 0,
+          "blurriness": 222.1441937739293,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 495,
+          "proximity": 0,
+          "blurriness": 237.67852921539404,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 496,
+          "proximity": 0,
+          "blurriness": 223.98396847975397,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 497,
+          "proximity": 0,
+          "blurriness": 229.39542346242214,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 498,
+          "proximity": 0,
+          "blurriness": 223.90117842057282,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 499,
+          "proximity": 0,
+          "blurriness": 235.6978117375778,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 500,
+          "proximity": 252568.0,
+          "blurriness": 223.25439403902737,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 501,
+          "proximity": 251520.0,
+          "blurriness": 227.33733496854677,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 502,
+          "proximity": 252648.0,
+          "blurriness": 219.07958616208774,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 503,
+          "proximity": 268272.0,
+          "blurriness": 232.66930952778162,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 504,
+          "proximity": 270630.0,
+          "blurriness": 224.19288232316805,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 505,
+          "proximity": 390000.0,
+          "blurriness": 219.22445854325252,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 506,
+          "proximity": 398860.0,
+          "blurriness": 216.91151904613608,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 507,
+          "proximity": 0,
+          "blurriness": 233.0351355801615,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 508,
+          "proximity": 0,
+          "blurriness": 228.17774804299881,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 509,
+          "proximity": 0,
+          "blurriness": 227.99065824473664,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 510,
+          "proximity": 251292.0,
+          "blurriness": 226.93130188967328,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 511,
+          "proximity": 0,
+          "blurriness": 241.6674215470011,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 512,
+          "proximity": 0,
+          "blurriness": 241.65030782151095,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 513,
+          "proximity": 0,
+          "blurriness": 235.1713819999654,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 514,
+          "proximity": 0,
+          "blurriness": 237.08293883419842,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 515,
+          "proximity": 0,
+          "blurriness": 248.28355030541715,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 516,
+          "proximity": 0,
+          "blurriness": 235.04439016282586,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 517,
+          "proximity": 0,
+          "blurriness": 237.74684509757398,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 518,
+          "proximity": 0,
+          "blurriness": 234.94453724935025,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 519,
+          "proximity": 0,
+          "blurriness": 247.64490975569393,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 520,
+          "proximity": 0,
+          "blurriness": 233.3102312561477,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 521,
+          "proximity": 0,
+          "blurriness": 236.03350495924641,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 522,
+          "proximity": 0,
+          "blurriness": 231.78041750086504,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 523,
+          "proximity": 0,
+          "blurriness": 234.0665470585121,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 524,
+          "proximity": 0,
+          "blurriness": 220.21988429846598,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 525,
+          "proximity": 0,
+          "blurriness": 228.2923292422145,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 526,
+          "proximity": 0,
+          "blurriness": 222.1136450588197,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 527,
+          "proximity": 0,
+          "blurriness": 233.13656267081504,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 528,
+          "proximity": 0,
+          "blurriness": 223.08315285922333,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 529,
+          "proximity": 0,
+          "blurriness": 233.29490584981158,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 530,
+          "proximity": 0,
+          "blurriness": 223.7605409323183,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 531,
+          "proximity": 0,
+          "blurriness": 241.91832306112653,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 532,
+          "proximity": 0,
+          "blurriness": 228.72161148442908,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 533,
+          "proximity": 0,
+          "blurriness": 229.14195272339865,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 534,
+          "proximity": 0,
+          "blurriness": 222.43175029895806,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 535,
+          "proximity": 0,
+          "blurriness": 238.60724033798925,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 536,
+          "proximity": 0,
+          "blurriness": 222.28213330872745,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 537,
+          "proximity": 0,
+          "blurriness": 232.41494896049207,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 538,
+          "proximity": 0,
+          "blurriness": 187.76195657328333,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 539,
+          "proximity": 0,
+          "blurriness": 188.04948870347943,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 540,
+          "proximity": 0,
+          "blurriness": 177.6445861222568,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 541,
+          "proximity": 0,
+          "blurriness": 183.78233056959243,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 542,
+          "proximity": 0,
+          "blurriness": 178.3181023482315,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 543,
+          "proximity": 0,
+          "blurriness": 187.78579794321806,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 544,
+          "proximity": 0,
+          "blurriness": 12.632005052272206,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 545,
+          "proximity": 0,
+          "blurriness": 17.69905271620146,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 546,
+          "proximity": 0,
+          "blurriness": 12.616184106789696,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 547,
+          "proximity": 0,
+          "blurriness": 20.681775994217606,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 548,
+          "proximity": 0,
+          "blurriness": 11.113460638119953,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 549,
+          "proximity": 0,
+          "blurriness": 14.593291844579007,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 550,
+          "proximity": 0,
+          "blurriness": 14.164381794844289,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 551,
+          "proximity": 0,
+          "blurriness": 20.68318595578623,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 552,
+          "proximity": 0,
+          "blurriness": 11.013062738946557,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 553,
+          "proximity": 0,
+          "blurriness": 16.660778092237603,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 554,
+          "proximity": 0,
+          "blurriness": 12.695886928531332,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 555,
+          "proximity": 0,
+          "blurriness": 20.721974776528253,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 556,
+          "proximity": 0,
+          "blurriness": 12.860104794217614,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 557,
+          "proximity": 0,
+          "blurriness": 16.906496025801616,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 558,
+          "proximity": 0,
+          "blurriness": 11.060730877043444,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 559,
+          "proximity": 0,
+          "blurriness": 19.53013244012303,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 560,
+          "proximity": 0,
+          "blurriness": 11.110152845198002,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 561,
+          "proximity": 0,
+          "blurriness": 15.428599649350248,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 562,
+          "proximity": 0,
+          "blurriness": 12.308349840815069,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 563,
+          "proximity": 0,
+          "blurriness": 122.27577510523261,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 564,
+          "proximity": 0,
+          "blurriness": 114.80920085696275,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 565,
+          "proximity": 0,
+          "blurriness": 118.76972658352554,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 566,
+          "proximity": 0,
+          "blurriness": 115.57985412341407,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 567,
+          "proximity": 0,
+          "blurriness": 122.54990322712419,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 568,
+          "proximity": 0,
+          "blurriness": 116.67336401470209,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 569,
+          "proximity": 0,
+          "blurriness": 118.80020917951171,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 570,
+          "proximity": 0,
+          "blurriness": 116.4338764699385,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 571,
+          "proximity": 0,
+          "blurriness": 123.36697725022682,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 572,
+          "proximity": 0,
+          "blurriness": 117.72213158863512,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 573,
+          "proximity": 0,
+          "blurriness": 120.3103211703191,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 574,
+          "proximity": 0,
+          "blurriness": 117.94435193608615,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 575,
+          "proximity": 0,
+          "blurriness": 122.88154037000768,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 576,
+          "proximity": 0,
+          "blurriness": 116.35076204973471,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 577,
+          "proximity": 0,
+          "blurriness": 116.91881943177239,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 578,
+          "proximity": 0,
+          "blurriness": 114.90828404373318,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 579,
+          "proximity": 0,
+          "blurriness": 119.4598567905844,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 580,
+          "proximity": 0,
+          "blurriness": 114.40901729408304,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 581,
+          "proximity": 0,
+          "blurriness": 117.99598586340251,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 582,
+          "proximity": 0,
+          "blurriness": 119.07539641608612,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 583,
+          "proximity": 0,
+          "blurriness": 123.67670565091889,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 584,
+          "proximity": 0,
+          "blurriness": 118.5067133973702,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 585,
+          "proximity": 0,
+          "blurriness": 121.86591846434447,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 586,
+          "proximity": 0,
+          "blurriness": 118.82528658792387,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 587,
+          "proximity": 0,
+          "blurriness": 125.21762274924642,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 588,
+          "proximity": 0,
+          "blurriness": 121.33327838935408,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 589,
+          "proximity": 0,
+          "blurriness": 123.57006595770471,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 590,
+          "proximity": 0,
+          "blurriness": 122.02406159261437,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 591,
+          "proximity": 0,
+          "blurriness": 127.8323929617493,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 592,
+          "proximity": 0,
+          "blurriness": 121.09324477689734,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 593,
+          "proximity": 0,
+          "blurriness": 124.79985652179548,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 594,
+          "proximity": 0,
+          "blurriness": 120.77868784513267,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 595,
+          "proximity": 0,
+          "blurriness": 128.09635093700882,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 596,
+          "proximity": 0,
+          "blurriness": 121.28194264174935,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 597,
+          "proximity": 0,
+          "blurriness": 122.44597840857749,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 598,
+          "proximity": 0,
+          "blurriness": 120.08046664888884,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 599,
+          "proximity": 0,
+          "blurriness": 126.22011568627069,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 600,
+          "proximity": 0,
+          "blurriness": 124.2990030283583,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 601,
+          "proximity": 0,
+          "blurriness": 133.82893727326024,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 602,
+          "proximity": 0,
+          "blurriness": 128.4810376012918,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 603,
+          "proximity": 0,
+          "blurriness": 128.50983526568243,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 604,
+          "proximity": 0,
+          "blurriness": 126.31043898678972,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 605,
+          "proximity": 0,
+          "blurriness": 133.90299569936178,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 606,
+          "proximity": 0,
+          "blurriness": 128.21598351427912,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 607,
+          "proximity": 0,
+          "blurriness": 131.45611172853134,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 608,
+          "proximity": 0,
+          "blurriness": 129.9467941060169,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 609,
+          "proximity": 0,
+          "blurriness": 134.6296784301269,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 610,
+          "proximity": 0,
+          "blurriness": 130.2505391928912,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 611,
+          "proximity": 0,
+          "blurriness": 131.3511313572895,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 612,
+          "proximity": 0,
+          "blurriness": 131.16722352595156,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 613,
+          "proximity": 0,
+          "blurriness": 136.41120387160325,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 614,
+          "proximity": 0,
+          "blurriness": 131.39804901434448,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 615,
+          "proximity": 0,
+          "blurriness": 133.61643920529028,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 616,
+          "proximity": 0,
+          "blurriness": 146.12162526689355,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 617,
+          "proximity": 0,
+          "blurriness": 145.83539406680123,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 618,
+          "proximity": 0,
+          "blurriness": 140.96658569869666,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 619,
+          "proximity": 0,
+          "blurriness": 142.82315945504033,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 620,
+          "proximity": 0,
+          "blurriness": 140.8095577798693,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 621,
+          "proximity": 0,
+          "blurriness": 145.89006846399076,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 622,
+          "proximity": 0,
+          "blurriness": 132.87926092547485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 623,
+          "proximity": 0,
+          "blurriness": 128.84454131463283,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 624,
+          "proximity": 0,
+          "blurriness": 122.88789727483275,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 625,
+          "proximity": 0,
+          "blurriness": 129.47085728233753,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 626,
+          "proximity": 0,
+          "blurriness": 124.58554432660898,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 627,
+          "proximity": 0,
+          "blurriness": 127.25352650131104,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 628,
+          "proximity": 0,
+          "blurriness": 19.241939367181857,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 629,
+          "proximity": 0,
+          "blurriness": 30.48047028723953,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 630,
+          "proximity": 0,
+          "blurriness": 22.962860405997688,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 631,
+          "proximity": 0,
+          "blurriness": 27.219381372452904,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 632,
+          "proximity": 0,
+          "blurriness": 25.97791596215302,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 633,
+          "proximity": 0,
+          "blurriness": 31.131023748831225,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 634,
+          "proximity": 0,
+          "blurriness": 25.163650650657427,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 635,
+          "proximity": 0,
+          "blurriness": 26.60459349327183,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 636,
+          "proximity": 0,
+          "blurriness": 25.82267025591696,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 637,
+          "proximity": 0,
+          "blurriness": 31.07449518560553,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 638,
+          "proximity": 0,
+          "blurriness": 23.669936856593615,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 639,
+          "proximity": 0,
+          "blurriness": 26.358128237566323,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 640,
+          "proximity": 0,
+          "blurriness": 21.79764269281046,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 641,
+          "proximity": 0,
+          "blurriness": 28.609313374840447,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 642,
+          "proximity": 0,
+          "blurriness": 22.554428315105728,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 643,
+          "proximity": 0,
+          "blurriness": 23.1548715278739,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 644,
+          "proximity": 0,
+          "blurriness": 18.08537856441368,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 645,
+          "proximity": 0,
+          "blurriness": 24.90647731718185,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 646,
+          "proximity": 0,
+          "blurriness": 19.8675031824529,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 647,
+          "proximity": 0,
+          "blurriness": 20.2213275706882,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 648,
+          "proximity": 0,
+          "blurriness": 19.78261899269511,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 649,
+          "proximity": 0,
+          "blurriness": 176.56879856939634,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 650,
+          "proximity": 0,
+          "blurriness": 173.2373272386582,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 651,
+          "proximity": 0,
+          "blurriness": 174.01143524589,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 652,
+          "proximity": 0,
+          "blurriness": 169.6093620242638,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 653,
+          "proximity": 0,
+          "blurriness": 176.41680371395233,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 654,
+          "proximity": 0,
+          "blurriness": 172.041411522303,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 655,
+          "proximity": 0,
+          "blurriness": 173.80643072625918,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 656,
+          "proximity": 0,
+          "blurriness": 169.7144700330642,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 657,
+          "proximity": 0,
+          "blurriness": 176.32322696918106,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 658,
+          "proximity": 0,
+          "blurriness": 170.56844923384853,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 659,
+          "proximity": 0,
+          "blurriness": 176.84490021608607,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 660,
+          "proximity": 0,
+          "blurriness": 176.10662633816224,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 661,
+          "proximity": 0,
+          "blurriness": 203.15779968552093,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 662,
+          "proximity": 0,
+          "blurriness": 194.08306465503654,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 663,
+          "proximity": 0,
+          "blurriness": 203.89106636524417,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 664,
+          "proximity": 0,
+          "blurriness": 200.32856271184545,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 665,
+          "proximity": 0,
+          "blurriness": 206.20315284275281,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 666,
+          "proximity": 0,
+          "blurriness": 194.7020110865052,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 667,
+          "proximity": 0,
+          "blurriness": 211.7233909768704,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 668,
+          "proximity": 0,
+          "blurriness": 204.77008678114183,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 669,
+          "proximity": 0,
+          "blurriness": 215.33009110523258,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 670,
+          "proximity": 0,
+          "blurriness": 201.78365372539406,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 671,
+          "proximity": 0,
+          "blurriness": 208.53527931620147,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 672,
+          "proximity": 0,
+          "blurriness": 202.46620077508268,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 673,
+          "proximity": 0,
+          "blurriness": 216.95663198658596,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 674,
+          "proximity": 0,
+          "blurriness": 203.65698662191076,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 675,
+          "proximity": 0,
+          "blurriness": 209.85184656697814,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 676,
+          "proximity": 0,
+          "blurriness": 203.54160547589007,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 677,
+          "proximity": 0,
+          "blurriness": 215.89374258208386,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 678,
+          "proximity": 0,
+          "blurriness": 202.2306399942176,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 679,
+          "proximity": 0,
+          "blurriness": 210.77189545257974,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 680,
+          "proximity": 0,
+          "blurriness": 203.56108676659358,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 681,
+          "proximity": 0,
+          "blurriness": 210.88546273894653,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 682,
+          "proximity": 0,
+          "blurriness": 199.49074665817378,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 683,
+          "proximity": 0,
+          "blurriness": 205.18326550951178,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 684,
+          "proximity": 0,
+          "blurriness": 197.1491951401922,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 685,
+          "proximity": 0,
+          "blurriness": 209.71839274921567,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 686,
+          "proximity": 0,
+          "blurriness": 198.38502399673587,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 687,
+          "proximity": 0,
+          "blurriness": 201.71186953373316,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 688,
+          "proximity": 0,
+          "blurriness": 195.8776873347751,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 689,
+          "proximity": 0,
+          "blurriness": 203.8800822458901,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 690,
+          "proximity": 0,
+          "blurriness": 191.31730763169548,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 691,
+          "proximity": 0,
+          "blurriness": 197.1052108590504,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 692,
+          "proximity": 0,
+          "blurriness": 192.0888950098847,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 693,
+          "proximity": 0,
+          "blurriness": 202.54868985725108,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 694,
+          "proximity": 0,
+          "blurriness": 193.60565469480582,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 695,
+          "proximity": 0,
+          "blurriness": 200.06740465559017,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 696,
+          "proximity": 0,
+          "blurriness": 193.46262055584774,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 697,
+          "proximity": 0,
+          "blurriness": 203.7656449081084,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 698,
+          "proximity": 0,
+          "blurriness": 193.575709696113,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 699,
+          "proximity": 0,
+          "blurriness": 194.77860546429838,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 700,
+          "proximity": 0,
+          "blurriness": 192.17211359993846,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 701,
+          "proximity": 0,
+          "blurriness": 201.20029363038836,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 702,
+          "proximity": 0,
+          "blurriness": 200.33827953234913,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 703,
+          "proximity": 0,
+          "blurriness": 227.2014097734679,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 704,
+          "proximity": 0,
+          "blurriness": 210.19621355755095,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 705,
+          "proximity": 0,
+          "blurriness": 228.79613442459055,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 706,
+          "proximity": 0,
+          "blurriness": 207.0227127426951,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 707,
+          "proximity": 0,
+          "blurriness": 216.16885832986935,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 708,
+          "proximity": 0,
+          "blurriness": 204.59249248441367,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 709,
+          "proximity": 0,
+          "blurriness": 227.86330795432144,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 710,
+          "proximity": 0,
+          "blurriness": 207.98349962254517,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 711,
+          "proximity": 0,
+          "blurriness": 214.89977271763172,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 712,
+          "proximity": 0,
+          "blurriness": 207.69949114033065,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 713,
+          "proximity": 0,
+          "blurriness": 228.0358117331949,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 714,
+          "proximity": 0,
+          "blurriness": 207.00283082718568,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 715,
+          "proximity": 0,
+          "blurriness": 216.30350133560555,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 716,
+          "proximity": 0,
+          "blurriness": 44.639539265682416,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 717,
+          "proximity": 0,
+          "blurriness": 63.43288276999614,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 718,
+          "proximity": 0,
+          "blurriness": 43.603005670911195,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 719,
+          "proximity": 0,
+          "blurriness": 51.4921164971588,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 720,
+          "proximity": 0,
+          "blurriness": 40.40465698620146,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 721,
+          "proximity": 0,
+          "blurriness": 66.18705990157632,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 722,
+          "proximity": 0,
+          "blurriness": 44.89127277361014,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 723,
+          "proximity": 0,
+          "blurriness": 50.19155730241832,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 724,
+          "proximity": 0,
+          "blurriness": 44.52289441888119,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 725,
+          "proximity": 0,
+          "blurriness": 64.70610806117264,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 726,
+          "proximity": 0,
+          "blurriness": 44.68085449836215,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 727,
+          "proximity": 0,
+          "blurriness": 188.58242004751634,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 728,
+          "proximity": 0,
+          "blurriness": 181.2248639983045,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 729,
+          "proximity": 0,
+          "blurriness": 200.18907794392925,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 730,
+          "proximity": 0,
+          "blurriness": 183.02212907524412,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 731,
+          "proximity": 0,
+          "blurriness": 185.2734566281853,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 732,
+          "proximity": 0,
+          "blurriness": 181.14716029156477,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 733,
+          "proximity": 0,
+          "blurriness": 200.0832656744944,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 734,
+          "proximity": 0,
+          "blurriness": 182.80827757698967,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 735,
+          "proximity": 0,
+          "blurriness": 184.92931800432143,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 736,
+          "proximity": 0,
+          "blurriness": 180.9667063128604,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 737,
+          "proximity": 0,
+          "blurriness": 196.29743888529026,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 738,
+          "proximity": 0,
+          "blurriness": 178.6655129249327,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 739,
+          "proximity": 0,
+          "blurriness": 180.48976581219148,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 740,
+          "proximity": 0,
+          "blurriness": 181.9194399704575,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 741,
+          "proximity": 0,
+          "blurriness": 193.5608570997462,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 742,
+          "proximity": 0,
+          "blurriness": 183.93028987708948,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 743,
+          "proximity": 0,
+          "blurriness": 192.59567898527877,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 744,
+          "proximity": 0,
+          "blurriness": 187.2509005526951,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 745,
+          "proximity": 0,
+          "blurriness": 150.81479869451752,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 746,
+          "proximity": 0,
+          "blurriness": 145.14153684692047,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 747,
+          "proximity": 0,
+          "blurriness": 145.90545702715875,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 748,
+          "proximity": 0,
+          "blurriness": 149.19295337294884,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 749,
+          "proximity": 0,
+          "blurriness": 155.6572117709189,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 750,
+          "proximity": 0,
+          "blurriness": 154.9338734495925,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 751,
+          "proximity": 0,
+          "blurriness": 181.084604360596,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 752,
+          "proximity": 0,
+          "blurriness": 173.83302034503654,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 753,
+          "proximity": 0,
+          "blurriness": 172.82026551326035,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 754,
+          "proximity": 360360.0,
+          "blurriness": 171.69403685719337,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 755,
+          "proximity": 0,
+          "blurriness": 179.82845389339099,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 756,
+          "proximity": 361154.0,
+          "blurriness": 174.5400849690273,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 757,
+          "proximity": 0,
+          "blurriness": 180.17474094569397,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 758,
+          "proximity": 0,
+          "blurriness": 172.78599558016148,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 759,
+          "proximity": 0,
+          "blurriness": 185.39092548625916,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 760,
+          "proximity": 0,
+          "blurriness": 180.06786665188775,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 761,
+          "proximity": 0,
+          "blurriness": 193.5583430248328,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 762,
+          "proximity": 0,
+          "blurriness": 187.861286256732,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 763,
+          "proximity": 0,
+          "blurriness": 199.40443720580924,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 764,
+          "proximity": 0,
+          "blurriness": 194.31018625171473,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 765,
+          "proximity": 0,
+          "blurriness": 203.56768625457897,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 766,
+          "proximity": 0,
+          "blurriness": 195.43083330684735,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 767,
+          "proximity": 0,
+          "blurriness": 206.71768822003463,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 768,
+          "proximity": 0,
+          "blurriness": 195.72695098035751,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 769,
+          "proximity": 0,
+          "blurriness": 203.13356861859285,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 770,
+          "proximity": 0,
+          "blurriness": 191.0232450786582,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 771,
+          "proximity": 0,
+          "blurriness": 205.12003136953484,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 772,
+          "proximity": 0,
+          "blurriness": 194.98434507091122,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 773,
+          "proximity": 0,
+          "blurriness": 199.01178229477512,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 774,
+          "proximity": 0,
+          "blurriness": 192.26570586242215,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 775,
+          "proximity": 0,
+          "blurriness": 208.60459604865824,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 776,
+          "proximity": 0,
+          "blurriness": 198.924390011684,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 777,
+          "proximity": 0,
+          "blurriness": 199.89377592124563,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 778,
+          "proximity": 0,
+          "blurriness": 200.8164893754556,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 779,
+          "proximity": 0,
+          "blurriness": 213.32174359140328,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 780,
+          "proximity": 0,
+          "blurriness": 203.5979586332026,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 781,
+          "proximity": 0,
+          "blurriness": 210.97755356954647,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 782,
+          "proximity": 0,
+          "blurriness": 206.52536426365248,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 783,
+          "proximity": 0,
+          "blurriness": 214.7285064311265,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 784,
+          "proximity": 0,
+          "blurriness": 204.7756331549366,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 785,
+          "proximity": 0,
+          "blurriness": 212.5322186039177,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 786,
+          "proximity": 0,
+          "blurriness": 205.11312687044986,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 787,
+          "proximity": 0,
+          "blurriness": 222.16064138177242,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 788,
+          "proximity": 0,
+          "blurriness": 216.47939524425604,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 789,
+          "proximity": 0,
+          "blurriness": 218.31012019607456,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 790,
+          "proximity": 0,
+          "blurriness": 210.84802255587852,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 791,
+          "proximity": 0,
+          "blurriness": 223.64496195061903,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 792,
+          "proximity": 0,
+          "blurriness": 209.93443994272974,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 793,
+          "proximity": 0,
+          "blurriness": 218.29518018561706,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 794,
+          "proximity": 0,
+          "blurriness": 211.07887395708957,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 795,
+          "proximity": 0,
+          "blurriness": 218.44457608580936,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 796,
+          "proximity": 0,
+          "blurriness": 206.38344712894653,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 797,
+          "proximity": 0,
+          "blurriness": 203.10867708188775,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 798,
+          "proximity": 0,
+          "blurriness": 191.7228906140677,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 799,
+          "proximity": 0,
+          "blurriness": 207.3619673420953,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 800,
+          "proximity": 0,
+          "blurriness": 194.4933990211611,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 801,
+          "proximity": 0,
+          "blurriness": 189.50590425465592,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 802,
+          "proximity": 0,
+          "blurriness": 188.18028919386387,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 803,
+          "proximity": 0,
+          "blurriness": 196.5487004172396,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 804,
+          "proximity": 0,
+          "blurriness": 187.8595068338485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 805,
+          "proximity": 0,
+          "blurriness": 196.1551331132603,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 806,
+          "proximity": 0,
+          "blurriness": 195.2539427889235,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 807,
+          "proximity": 0,
+          "blurriness": 199.33347158104962,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 808,
+          "proximity": 0,
+          "blurriness": 191.30118430411383,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 809,
+          "proximity": 0,
+          "blurriness": 190.84292062706646,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 810,
+          "proximity": 0,
+          "blurriness": 185.36215701772778,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 811,
+          "proximity": 0,
+          "blurriness": 192.4103156668935,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 812,
+          "proximity": 0,
+          "blurriness": 188.98935421403692,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 813,
+          "proximity": 0,
+          "blurriness": 193.14611709771623,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 814,
+          "proximity": 0,
+          "blurriness": 198.47268700797767,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 815,
+          "proximity": 0,
+          "blurriness": 206.88249719713954,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 816,
+          "proximity": 0,
+          "blurriness": 230.26902868425609,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 817,
+          "proximity": 0,
+          "blurriness": 0.025913725490196077,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 818,
+          "proximity": 0,
+          "blurriness": 236.30407647049222,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 819,
+          "proximity": 0,
+          "blurriness": 4.022184120815068,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 820,
+          "proximity": 0,
+          "blurriness": 7.005027127643216,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 821,
+          "proximity": 0,
+          "blurriness": 11.434576169592466,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 822,
+          "proximity": 0,
+          "blurriness": 12.946355757597072,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 823,
+          "proximity": 0,
+          "blurriness": 26.3741370817993,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 824,
+          "proximity": 0,
+          "blurriness": 20.657899821603234,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 825,
+          "proximity": 0,
+          "blurriness": 31.310500751772405,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 826,
+          "proximity": 0,
+          "blurriness": 41.38320105051519,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 827,
+          "proximity": 0,
+          "blurriness": 63.43121098454056,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 828,
+          "proximity": 0,
+          "blurriness": 58.43128767132255,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 829,
+          "proximity": 0,
+          "blurriness": 300.26281542698564,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 830,
+          "proximity": 0,
+          "blurriness": 279.9929210320608,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 831,
+          "proximity": 0,
+          "blurriness": 314.0226270208536,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 832,
+          "proximity": 0,
+          "blurriness": 296.75283605209916,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 833,
+          "proximity": 0,
+          "blurriness": 308.85166610071514,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 834,
+          "proximity": 0,
+          "blurriness": 295.70640343976925,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 835,
+          "proximity": 0,
+          "blurriness": 323.79681288439457,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 836,
+          "proximity": 0,
+          "blurriness": 303.61267836233753,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 837,
+          "proximity": 0,
+          "blurriness": 321.17974117176107,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 838,
+          "proximity": 0,
+          "blurriness": 314.5611397920761,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 839,
+          "proximity": 389865.0,
+          "blurriness": 343.55637118366406,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 840,
+          "proximity": 401355.0,
+          "blurriness": 323.7045769996156,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 841,
+          "proximity": 445220.0,
+          "blurriness": 339.1911470555902,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 842,
+          "proximity": 440202.0,
+          "blurriness": 325.2835734680354,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 843,
+          "proximity": 0,
+          "blurriness": 357.5090772533641,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 844,
+          "proximity": 0,
+          "blurriness": 331.02557304248757,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 845,
+          "proximity": 0,
+          "blurriness": 346.32699835770467,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 846,
+          "proximity": 0,
+          "blurriness": 344.6353678953633,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 847,
+          "proximity": 0,
+          "blurriness": 370.7517711184161,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 848,
+          "proximity": 0,
+          "blurriness": 327.45639040215303,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 849,
+          "proximity": 403403.0,
+          "blurriness": 360.4978854467667,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 850,
+          "proximity": 398398.0,
+          "blurriness": 358.6018232211612,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 851,
+          "proximity": 398796.0,
+          "blurriness": 375.80301366365256,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 852,
+          "proximity": 398202.0,
+          "blurriness": 342.1999652156825,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 853,
+          "proximity": 394210.0,
+          "blurriness": 351.90496102715883,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 854,
+          "proximity": 408775.0,
+          "blurriness": 343.43226314490965,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 855,
+          "proximity": 0,
+          "blurriness": 371.37579998116115,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 856,
+          "proximity": 0,
+          "blurriness": 338.97977550400225,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 857,
+          "proximity": 0,
+          "blurriness": 351.6796062221876,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 858,
+          "proximity": 0,
+          "blurriness": 339.8025074044598,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 859,
+          "proximity": 388327.5,
+          "blurriness": 374.8040519450944,
+          "objectsCount": 2
+        },
+        {
+          "frameNumber": 860,
+          "proximity": 0,
+          "blurriness": 343.0806137196425,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 861,
+          "proximity": 0,
+          "blurriness": 354.6345139655479,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 862,
+          "proximity": 0,
+          "blurriness": 330.8202800710457,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 863,
+          "proximity": 0,
+          "blurriness": 370.65086269687043,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 864,
+          "proximity": 433504.0,
+          "blurriness": 330.2483895968628,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 865,
+          "proximity": 433260.0,
+          "blurriness": 353.2849480737565,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 866,
+          "proximity": 432076.0,
+          "blurriness": 342.60974698823145,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 867,
+          "proximity": 0,
+          "blurriness": 374.74454277016144,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 868,
+          "proximity": 0,
+          "blurriness": 342.81368333373314,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 869,
+          "proximity": 0,
+          "blurriness": 360.06148933954626,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 870,
+          "proximity": 0,
+          "blurriness": 246.96650599490965,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 871,
+          "proximity": 0,
+          "blurriness": 248.7959122601461,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 872,
+          "proximity": 0,
+          "blurriness": 246.31370512939642,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 873,
+          "proximity": 0,
+          "blurriness": 246.30259738863515,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 874,
+          "proximity": 0,
+          "blurriness": 244.84553769836216,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 875,
+          "proximity": 0,
+          "blurriness": 250.7038956925452,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 876,
+          "proximity": 0,
+          "blurriness": 249.2588192205729,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 877,
+          "proximity": 0,
+          "blurriness": 246.07785960005765,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 878,
+          "proximity": 0,
+          "blurriness": 245.84716288625916,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 879,
+          "proximity": 0,
+          "blurriness": 252.7789616113034,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 880,
+          "proximity": 0,
+          "blurriness": 249.1496824456709,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 881,
+          "proximity": 0,
+          "blurriness": 252.11327673399074,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 882,
+          "proximity": 0,
+          "blurriness": 250.94068140868515,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 883,
+          "proximity": 0,
+          "blurriness": 255.41586860582473,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 884,
+          "proximity": 0,
+          "blurriness": 252.95241597545555,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 885,
+          "proximity": 0,
+          "blurriness": 255.66366951049207,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 886,
+          "proximity": 0,
+          "blurriness": 252.4263742148059,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 887,
+          "proximity": 0,
+          "blurriness": 257.85097303249137,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 888,
+          "proximity": 0,
+          "blurriness": 253.62021311233755,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 889,
+          "proximity": 0,
+          "blurriness": 254.51028550482127,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 890,
+          "proximity": 0,
+          "blurriness": 251.83975788395227,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 891,
+          "proximity": 0,
+          "blurriness": 258.40119769380624,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 892,
+          "proximity": 0,
+          "blurriness": 254.8381122347405,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 893,
+          "proximity": 0,
+          "blurriness": 257.5958512793387,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 894,
+          "proximity": 0,
+          "blurriness": 255.6912615843099,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 895,
+          "proximity": 0,
+          "blurriness": 262.60407066166863,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 896,
+          "proximity": 0,
+          "blurriness": 259.88160682869665,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 897,
+          "proximity": 0,
+          "blurriness": 261.1338146598385,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 898,
+          "proximity": 0,
+          "blurriness": 259.50448323935416,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 899,
+          "proximity": 0,
+          "blurriness": 265.3892982770896,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 900,
+          "proximity": 0,
+          "blurriness": 265.0393491103421,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 901,
+          "proximity": 0,
+          "blurriness": 308.2320484793503,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 902,
+          "proximity": 0,
+          "blurriness": 296.263070478889,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 903,
+          "proximity": 0,
+          "blurriness": 301.7869555280239,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 904,
+          "proximity": 0,
+          "blurriness": 297.0874844981739,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 905,
+          "proximity": 0,
+          "blurriness": 317.11442742191076,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 906,
+          "proximity": 0,
+          "blurriness": 311.76209281288357,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 907,
+          "proximity": 0,
+          "blurriness": 314.9547578827796,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 908,
+          "proximity": 0,
+          "blurriness": 321.8863915278739,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 909,
+          "proximity": 0,
+          "blurriness": 333.42030664144175,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 910,
+          "proximity": 0,
+          "blurriness": 322.9588253190273,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 911,
+          "proximity": 0,
+          "blurriness": 329.1636205881391,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 912,
+          "proximity": 0,
+          "blurriness": 330.8591747163053,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 913,
+          "proximity": 0,
+          "blurriness": 347.9877940853517,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 914,
+          "proximity": 0,
+          "blurriness": 337.3427684885776,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 915,
+          "proximity": 0,
+          "blurriness": 335.6492992791658,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 916,
+          "proximity": 0,
+          "blurriness": 332.33228019752005,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 917,
+          "proximity": 0,
+          "blurriness": 351.89777842967715,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 918,
+          "proximity": 0,
+          "blurriness": 335.4039764601922,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 919,
+          "proximity": 0,
+          "blurriness": 75.20448692853131,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 920,
+          "proximity": 0,
+          "blurriness": 70.23145441470204,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 921,
+          "proximity": 0,
+          "blurriness": 81.68970729387165,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 922,
+          "proximity": 0,
+          "blurriness": 100.0506204927297,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 923,
+          "proximity": 0,
+          "blurriness": 100.0506204927297,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 924,
+          "proximity": 0,
+          "blurriness": 88.02144093988467,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 925,
+          "proximity": 35105.0,
+          "blurriness": 103.81325415621296,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 926,
+          "proximity": 35400.0,
+          "blurriness": 87.52928617835832,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 927,
+          "proximity": 35217.0,
+          "blurriness": 79.42780224682816,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 928,
+          "proximity": 36652.0,
+          "blurriness": 97.51041071709344,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 929,
+          "proximity": 36771.0,
+          "blurriness": 98.87224410195692,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 930,
+          "proximity": 36934.0,
+          "blurriness": 84.26816867733564,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 931,
+          "proximity": 38841.0,
+          "blurriness": 107.35508816101114,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 932,
+          "proximity": 0,
+          "blurriness": 96.9894842039177,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 933,
+          "proximity": 38160.0,
+          "blurriness": 114.42673707218762,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 934,
+          "proximity": 40098.0,
+          "blurriness": 103.93284861351407,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 935,
+          "proximity": 40098.0,
+          "blurriness": 105.69473830384855,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 936,
+          "proximity": 40672.0,
+          "blurriness": 90.54908032473665,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 937,
+          "proximity": 41750.0,
+          "blurriness": 118.40926077093035,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 938,
+          "proximity": 41875.0,
+          "blurriness": 104.13919404963858,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 939,
+          "proximity": 42336.0,
+          "blurriness": 90.02115255177243,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 940,
+          "proximity": 44118.0,
+          "blurriness": 111.98931055569395,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 941,
+          "proximity": 44118.0,
+          "blurriness": 119.12952764234909,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 942,
+          "proximity": 0,
+          "blurriness": 94.27974880547484,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 943,
+          "proximity": 48990.0,
+          "blurriness": 112.76559372640908,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 944,
+          "proximity": 48852.0,
+          "blurriness": 105.70954226247981,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 945,
+          "proximity": 48990.0,
+          "blurriness": 116.5615874597424,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 946,
+          "proximity": 0,
+          "blurriness": 95.52238033111878,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 947,
+          "proximity": 50120.0,
+          "blurriness": 98.03777646503652,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 948,
+          "proximity": 51747.0,
+          "blurriness": 89.31198747052672,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 949,
+          "proximity": 51830.0,
+          "blurriness": 128.3310136486582,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 950,
+          "proximity": 52338.0,
+          "blurriness": 111.33274203681275,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 951,
+          "proximity": 52910.0,
+          "blurriness": 103.01740106795849,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 952,
+          "proximity": 53136.0,
+          "blurriness": 129.44754094953865,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 953,
+          "proximity": 52910.0,
+          "blurriness": 139.05037612622456,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 954,
+          "proximity": 53482.0,
+          "blurriness": 103.67601033555943,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 955,
+          "proximity": 53856.0,
+          "blurriness": 124.23852745097655,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 956,
+          "proximity": 53856.0,
+          "blurriness": 126.775172473664,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 957,
+          "proximity": 53712.0,
+          "blurriness": 144.23188399261434,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 958,
+          "proximity": 54054.0,
+          "blurriness": 120.17694246219146,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 959,
+          "proximity": 54432.0,
+          "blurriness": 119.95189274601687,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 960,
+          "proximity": 0,
+          "blurriness": 101.37861502731256,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 961,
+          "proximity": 53339.0,
+          "blurriness": 147.27714869179547,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 962,
+          "proximity": 53250.0,
+          "blurriness": 111.9855391928912,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 963,
+          "proximity": 53108.0,
+          "blurriness": 105.55526026647829,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 964,
+          "proximity": 53016.0,
+          "blurriness": 131.40076246176085,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 965,
+          "proximity": 53108.0,
+          "blurriness": 145.2914276347712,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 966,
+          "proximity": 52640.0,
+          "blurriness": 103.04120173000773,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 967,
+          "proximity": 53392.0,
+          "blurriness": 121.84083675939638,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 968,
+          "proximity": 53016.0,
+          "blurriness": 116.60734450725103,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 969,
+          "proximity": 52500.0,
+          "blurriness": 142.32712884382548,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 970,
+          "proximity": 0,
+          "blurriness": 109.77652242896963,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 971,
+          "proximity": 0,
+          "blurriness": 110.42709539699727,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 972,
+          "proximity": 0,
+          "blurriness": 103.57783312101112,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 973,
+          "proximity": 52264.0,
+          "blurriness": 139.54653475346024,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 974,
+          "proximity": 0,
+          "blurriness": 128.5521673518801,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 975,
+          "proximity": 0,
+          "blurriness": 120.80447740770474,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 976,
+          "proximity": 0,
+          "blurriness": 130.52139153171473,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 977,
+          "proximity": 0,
+          "blurriness": 136.78694574836985,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 978,
+          "proximity": 0,
+          "blurriness": 120.62994750332946,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 979,
+          "proximity": 0,
+          "blurriness": 121.69823919575545,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 980,
+          "proximity": 0,
+          "blurriness": 112.70159606803537,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 981,
+          "proximity": 0,
+          "blurriness": 135.38428859163403,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 982,
+          "proximity": 50592.0,
+          "blurriness": 119.51962755469052,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 983,
+          "proximity": 50728.0,
+          "blurriness": 124.52591136854672,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 984,
+          "proximity": 0,
+          "blurriness": 114.46341416032297,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 985,
+          "proximity": 53424.0,
+          "blurriness": 135.71011851561326,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 986,
+          "proximity": 53940.0,
+          "blurriness": 124.60367541895808,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 987,
+          "proximity": 54085.0,
+          "blurriness": 119.76254491195694,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 988,
+          "proximity": 53712.0,
+          "blurriness": 121.98396861539408,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 989,
+          "proximity": 52966.0,
+          "blurriness": 131.4731837168935,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 990,
+          "proximity": 53712.0,
+          "blurriness": 127.30700945094578,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 991,
+          "proximity": 0,
+          "blurriness": 171.9772645613225,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 992,
+          "proximity": 0,
+          "blurriness": 137.44946904284507,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 993,
+          "proximity": 0,
+          "blurriness": 184.36864966578628,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 994,
+          "proximity": 0,
+          "blurriness": 120.40754471412535,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 995,
+          "proximity": 0,
+          "blurriness": 140.3564254540215,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 996,
+          "proximity": 0,
+          "blurriness": 114.7785859261784,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 997,
+          "proximity": 0,
+          "blurriness": 171.5224233964014,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 998,
+          "proximity": 0,
+          "blurriness": 129.0911665264091,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 999,
+          "proximity": 0,
+          "blurriness": 138.80270766870817,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1000,
+          "proximity": 0,
+          "blurriness": 155.67300341216452,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1001,
+          "proximity": 0,
+          "blurriness": 173.43464150286815,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1002,
+          "proximity": 0,
+          "blurriness": 117.64311346559013,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1003,
+          "proximity": 0,
+          "blurriness": 140.5196214664783,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1004,
+          "proximity": 0,
+          "blurriness": 119.57684094569396,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1005,
+          "proximity": 0,
+          "blurriness": 172.6546467265052,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1006,
+          "proximity": 0,
+          "blurriness": 119.77333102883121,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1007,
+          "proximity": 0,
+          "blurriness": 138.4828725469858,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1008,
+          "proximity": 0,
+          "blurriness": 117.9638694555594,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1009,
+          "proximity": 0,
+          "blurriness": 174.4939670993618,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1010,
+          "proximity": 0,
+          "blurriness": 121.02418894638984,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1011,
+          "proximity": 0,
+          "blurriness": 135.63773884179548,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1012,
+          "proximity": 0,
+          "blurriness": 132.35440884999616,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1013,
+          "proximity": 0,
+          "blurriness": 167.98758344150718,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1014,
+          "proximity": 0,
+          "blurriness": 120.95218278274126,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1015,
+          "proximity": 0,
+          "blurriness": 138.6756058823184,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1016,
+          "proximity": 0,
+          "blurriness": 115.5244093877701,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1017,
+          "proximity": 0,
+          "blurriness": 163.55015457638984,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1018,
+          "proximity": 0,
+          "blurriness": 118.10389767449445,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1019,
+          "proximity": 0,
+          "blurriness": 138.42507316238368,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1020,
+          "proximity": 0,
+          "blurriness": 109.25539528101113,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1021,
+          "proximity": 0,
+          "blurriness": 170.42978561236063,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1022,
+          "proximity": 0,
+          "blurriness": 123.36349866406768,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1023,
+          "proximity": 0,
+          "blurriness": 138.7082457776816,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1024,
+          "proximity": 0,
+          "blurriness": 135.58883332517877,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1025,
+          "proximity": 0,
+          "blurriness": 174.13015948203,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1026,
+          "proximity": 0,
+          "blurriness": 133.48294652196847,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1027,
+          "proximity": 0,
+          "blurriness": 147.10552732222604,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1028,
+          "proximity": 0,
+          "blurriness": 128.98180502944635,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1029,
+          "proximity": 0,
+          "blurriness": 176.0347880138408,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1030,
+          "proximity": 0,
+          "blurriness": 130.37593322482124,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1031,
+          "proximity": 0,
+          "blurriness": 142.9147057774356,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1032,
+          "proximity": 0,
+          "blurriness": 135.97402439117263,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1033,
+          "proximity": 0,
+          "blurriness": 174.8617496940561,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1034,
+          "proximity": 0,
+          "blurriness": 134.38723920607458,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1035,
+          "proximity": 0,
+          "blurriness": 144.61555999653982,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1036,
+          "proximity": 0,
+          "blurriness": 136.7264554851057,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1037,
+          "proximity": 0,
+          "blurriness": 170.19335468963854,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1038,
+          "proximity": 0,
+          "blurriness": 132.09839311709345,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1039,
+          "proximity": 0,
+          "blurriness": 149.31183976445985,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1040,
+          "proximity": 0,
+          "blurriness": 132.2867001411611,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1041,
+          "proximity": 0,
+          "blurriness": 173.4854021853749,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1042,
+          "proximity": 0,
+          "blurriness": 137.31531763892346,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1043,
+          "proximity": 0,
+          "blurriness": 141.8614803863091,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1044,
+          "proximity": 0,
+          "blurriness": 121.14711291502883,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1045,
+          "proximity": 0,
+          "blurriness": 168.36176518935406,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1046,
+          "proximity": 0,
+          "blurriness": 131.85704681853136,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1047,
+          "proximity": 0,
+          "blurriness": 130.4283814548866,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1048,
+          "proximity": 0,
+          "blurriness": 125.1273538740446,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1049,
+          "proximity": 0,
+          "blurriness": 161.73246281608613,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1050,
+          "proximity": 0,
+          "blurriness": 157.44227552623997,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1051,
+          "proximity": 0,
+          "blurriness": 233.61744304369094,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1052,
+          "proximity": 0,
+          "blurriness": 182.8807349126298,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1053,
+          "proximity": 0,
+          "blurriness": 195.47157736046134,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1054,
+          "proximity": 0,
+          "blurriness": 172.65671937706642,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1055,
+          "proximity": 0,
+          "blurriness": 214.94243526698966,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1056,
+          "proximity": 0,
+          "blurriness": 173.15469018929645,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1057,
+          "proximity": 0,
+          "blurriness": 206.01347444281436,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1058,
+          "proximity": 0,
+          "blurriness": 200.19451536070358,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1059,
+          "proximity": 0,
+          "blurriness": 183.3506744448289,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1060,
+          "proximity": 0,
+          "blurriness": 132.98938025336415,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1061,
+          "proximity": 0,
+          "blurriness": 154.10505682506343,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1062,
+          "proximity": 0,
+          "blurriness": 146.48975026698966,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1063,
+          "proximity": 0,
+          "blurriness": 183.79319482720496,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1064,
+          "proximity": 0,
+          "blurriness": 142.94725974870818,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1065,
+          "proximity": 0,
+          "blurriness": 153.70912748702423,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1066,
+          "proximity": 0,
+          "blurriness": 138.9126342978508,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1067,
+          "proximity": 0,
+          "blurriness": 181.36676273488658,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1068,
+          "proximity": 0,
+          "blurriness": 131.81743815195688,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1069,
+          "proximity": 0,
+          "blurriness": 147.75246462052672,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1070,
+          "proximity": 0,
+          "blurriness": 137.528127356213,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1071,
+          "proximity": 0,
+          "blurriness": 180.16792913562475,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1072,
+          "proximity": 0,
+          "blurriness": 133.5461426251288,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1073,
+          "proximity": 0,
+          "blurriness": 151.1272215449097,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1074,
+          "proximity": 0,
+          "blurriness": 140.92378966117255,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1075,
+          "proximity": 0,
+          "blurriness": 178.6351449688581,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1076,
+          "proximity": 0,
+          "blurriness": 141.8118719538485,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1077,
+          "proximity": 0,
+          "blurriness": 147.68720755449445,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1078,
+          "proximity": 0,
+          "blurriness": 134.45831497869668,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1079,
+          "proximity": 0,
+          "blurriness": 176.11350862218757,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1080,
+          "proximity": 0,
+          "blurriness": 126.07288242490966,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1081,
+          "proximity": 0,
+          "blurriness": 154.92663827744718,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1082,
+          "proximity": 0,
+          "blurriness": 135.14035059006537,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1083,
+          "proximity": 0,
+          "blurriness": 176.23192860438297,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1084,
+          "proximity": 0,
+          "blurriness": 131.3567818480238,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1085,
+          "proximity": 0,
+          "blurriness": 145.25308231510576,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1086,
+          "proximity": 0,
+          "blurriness": 132.79845957530182,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1087,
+          "proximity": 0,
+          "blurriness": 180.65300105097654,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1088,
+          "proximity": 0,
+          "blurriness": 133.5253372830411,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1089,
+          "proximity": 0,
+          "blurriness": 148.46583992294885,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1090,
+          "proximity": 0,
+          "blurriness": 139.11106509188772,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1091,
+          "proximity": 0,
+          "blurriness": 180.74420739838138,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1092,
+          "proximity": 0,
+          "blurriness": 138.20189418915416,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1093,
+          "proximity": 0,
+          "blurriness": 154.35409316415232,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1094,
+          "proximity": 0,
+          "blurriness": 145.52843890994234,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1095,
+          "proximity": 0,
+          "blurriness": 182.37819799519804,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1096,
+          "proximity": 0,
+          "blurriness": 138.39286466820067,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1097,
+          "proximity": 0,
+          "blurriness": 158.046321562476,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1098,
+          "proximity": 0,
+          "blurriness": 145.26127641795847,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1099,
+          "proximity": 0,
+          "blurriness": 183.03280778209916,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1100,
+          "proximity": 0,
+          "blurriness": 150.0301294110112,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1101,
+          "proximity": 0,
+          "blurriness": 156.8744693720261,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1102,
+          "proximity": 0,
+          "blurriness": 141.05451309174933,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1103,
+          "proximity": 0,
+          "blurriness": 178.1971836737255,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1104,
+          "proximity": 0,
+          "blurriness": 133.59637446741635,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1105,
+          "proximity": 0,
+          "blurriness": 155.58763522712806,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1106,
+          "proximity": 0,
+          "blurriness": 133.90388596003075,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1107,
+          "proximity": 0,
+          "blurriness": 181.82324074500195,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1108,
+          "proximity": 0,
+          "blurriness": 127.64870216983849,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1109,
+          "proximity": 0,
+          "blurriness": 143.66698371758554,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1110,
+          "proximity": 0,
+          "blurriness": 132.3752841614725,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1111,
+          "proximity": 0,
+          "blurriness": 175.6097778849328,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1112,
+          "proximity": 0,
+          "blurriness": 146.66036184817767,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1113,
+          "proximity": 0,
+          "blurriness": 149.42526850426373,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1114,
+          "proximity": 0,
+          "blurriness": 131.90418717156473,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1115,
+          "proximity": 0,
+          "blurriness": 175.334670100792,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1116,
+          "proximity": 0,
+          "blurriness": 139.91242161862365,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1117,
+          "proximity": 0,
+          "blurriness": 157.32363235726262,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1118,
+          "proximity": 0,
+          "blurriness": 134.31376465051903,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1119,
+          "proximity": 0,
+          "blurriness": 180.95716645794312,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1120,
+          "proximity": 0,
+          "blurriness": 148.62726641862358,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1121,
+          "proximity": 0,
+          "blurriness": 158.72317691026143,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1122,
+          "proximity": 0,
+          "blurriness": 148.99445957698956,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1123,
+          "proximity": 0,
+          "blurriness": 175.7029662807228,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1124,
+          "proximity": 0,
+          "blurriness": 144.09487562856975,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1125,
+          "proximity": 0,
+          "blurriness": 154.9262016198347,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1126,
+          "proximity": 0,
+          "blurriness": 137.19419315818527,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1127,
+          "proximity": 0,
+          "blurriness": 173.25708328248749,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1128,
+          "proximity": 0,
+          "blurriness": 144.67463675509418,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1129,
+          "proximity": 0,
+          "blurriness": 154.6592487116916,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1130,
+          "proximity": 0,
+          "blurriness": 145.8784722411034,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1131,
+          "proximity": 0,
+          "blurriness": 167.95724313110344,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1132,
+          "proximity": 0,
+          "blurriness": 132.91842148779318,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1133,
+          "proximity": 0,
+          "blurriness": 148.46736056653592,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1134,
+          "proximity": 0,
+          "blurriness": 133.78823004327572,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1135,
+          "proximity": 0,
+          "blurriness": 167.8794081472511,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1136,
+          "proximity": 0,
+          "blurriness": 128.76440906480585,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1137,
+          "proximity": 0,
+          "blurriness": 139.66638224238375,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1138,
+          "proximity": 0,
+          "blurriness": 127.73659076353711,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1139,
+          "proximity": 0,
+          "blurriness": 161.5223131041753,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1140,
+          "proximity": 0,
+          "blurriness": 131.07534683552095,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1141,
+          "proximity": 0,
+          "blurriness": 154.45647837600927,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1142,
+          "proximity": 264880.0,
+          "blurriness": 110.20950441242216,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1143,
+          "proximity": 269726.0,
+          "blurriness": 118.32172110380623,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1144,
+          "proximity": 272620.0,
+          "blurriness": 84.64668378620146,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1145,
+          "proximity": 274978.0,
+          "blurriness": 97.22217294098809,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1146,
+          "proximity": 279174.0,
+          "blurriness": 86.65259257328331,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1147,
+          "proximity": 274839.0,
+          "blurriness": 111.7558709515994,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1148,
+          "proximity": 275473.0,
+          "blurriness": 84.14736364289121,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1149,
+          "proximity": 272552.0,
+          "blurriness": 97.79141801959247,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1150,
+          "proximity": 265045.0,
+          "blurriness": 84.97624105188775,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1151,
+          "proximity": 264784.0,
+          "blurriness": 114.40248518809693,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1152,
+          "proximity": 265392.0,
+          "blurriness": 90.43393010657056,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1153,
+          "proximity": 262223.0,
+          "blurriness": 97.64720401088427,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1154,
+          "proximity": 259000.0,
+          "blurriness": 95.15788923441369,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1155,
+          "proximity": 257240.0,
+          "blurriness": 115.45361096959249,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1156,
+          "proximity": 256668.0,
+          "blurriness": 94.38584053204151,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1157,
+          "proximity": 252288.0,
+          "blurriness": 103.38132635284505,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1158,
+          "proximity": 253152.0,
+          "blurriness": 95.99985560778161,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1159,
+          "proximity": 248474.0,
+          "blurriness": 114.25651768439445,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1160,
+          "proximity": 258712.0,
+          "blurriness": 92.64278871341408,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1161,
+          "proximity": 259588.0,
+          "blurriness": 98.63161354109575,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1162,
+          "proximity": 257788.0,
+          "blurriness": 97.96891761013454,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1163,
+          "proximity": 253044.0,
+          "blurriness": 113.20503921567085,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1164,
+          "proximity": 261027.0,
+          "blurriness": 83.68848176215302,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1165,
+          "proximity": 261048.0,
+          "blurriness": 100.69307436807382,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1166,
+          "proximity": 259863.0,
+          "blurriness": 94.5549333314725,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1167,
+          "proximity": 260770.0,
+          "blurriness": 115.01303528525949,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1168,
+          "proximity": 0,
+          "blurriness": 76.05925857937717,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1169,
+          "proximity": 0,
+          "blurriness": 93.68306269857746,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1170,
+          "proximity": 258125.0,
+          "blurriness": 89.41008624990384,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1171,
+          "proximity": 256956.0,
+          "blurriness": 112.52663867214146,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1172,
+          "proximity": 255203.0,
+          "blurriness": 86.19666373314497,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1173,
+          "proximity": 254617.0,
+          "blurriness": 95.90613043666285,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1174,
+          "proximity": 252580.0,
+          "blurriness": 70.77717273706651,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1175,
+          "proximity": 251133.0,
+          "blurriness": 111.97783382280276,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1176,
+          "proximity": 0,
+          "blurriness": 80.374542601015,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1177,
+          "proximity": 0,
+          "blurriness": 96.82746996999616,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1178,
+          "proximity": 0,
+          "blurriness": 79.62916318227985,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1179,
+          "proximity": 247104.0,
+          "blurriness": 105.6200856668935,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1180,
+          "proximity": 0,
+          "blurriness": 84.51896727516724,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1181,
+          "proximity": 0,
+          "blurriness": 88.0721239322376,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1182,
+          "proximity": 0,
+          "blurriness": 76.10575300170703,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1183,
+          "proximity": 0,
+          "blurriness": 105.34644859029606,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1184,
+          "proximity": 0,
+          "blurriness": 84.5870297802038,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1185,
+          "proximity": 0,
+          "blurriness": 82.63665037277585,
+          "objectsCount": 0
+        },
+        {
+          "frameNumber": 1186,
+          "proximity": 254585.0,
+          "blurriness": 72.72400808910035,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1187,
+          "proximity": 246818.0,
+          "blurriness": 102.50347242896963,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1188,
+          "proximity": 257400.0,
+          "blurriness": 69.95923858669742,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1189,
+          "proximity": 264661.0,
+          "blurriness": 82.34319570379085,
+          "objectsCount": 1
+        },
+        {
+          "frameNumber": 1190,
+          "proximity": 248829.0,
+          "blurriness": 97.19177875106115,
+          "objectsCount": 1
+        }
+      ],
+      "blurDistribution": [
+        {
+          "range": "0-25%",
+          "count": 174
+        },
+        {
+          "range": "25-50%",
+          "count": 229
+        },
+        {
+          "range": "50-75%",
+          "count": 418
+        },
+        {
+          "range": "75-100%",
+          "count": 369
+        }
+      ],
+      "proximityDistribution": [
+        {
+          "range": "0-25%",
+          "count": 1078
+        },
+        {
+          "range": "25-50%",
+          "count": 49
+        },
+        {
+          "range": "50-75%",
+          "count": 45
+        },
+        {
+          "range": "75-100%",
+          "count": 18
+        }
+      ]
+    },
+    "success": true
+  }
+}

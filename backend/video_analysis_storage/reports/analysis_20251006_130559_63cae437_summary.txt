@@ -1,0 +1,23 @@
+VIDEO ANALYSIS REPORT
+=====================
+
+Analysis ID: analysis_20251006_130559_63cae437
+Timestamp: 2025-10-06 13:05:59
+
+OVERALL EFFECTIVENESS SCORE: 44.7%
+
+TRANSCRIPTION SUMMARY:
+Discover the purity of nature with Daichi Kao Ghee. After trying so many brands, I finally found the purity, taste and aroma. The taste, aroma and consistency are truly amazing. Etu Kao Ghee is the purest form of the ghee. This ghee is made from the healthy, happy cows cared for in loving environments. This ghee has lots of benefits. It helps to lubricate joints, nourishes the skin and excrete weight loss and promote gut health. So if you are looking for a healthy lifestyle then use Daichi Kao G...
+
+TEXT SENTIMENT: Good (75%)
+
+HUMAN SENTIMENT ANALYSIS:
+  - Facial Score: 52.5%
+  - Body Language Score: 36.0%
+  - Combined Score: 47.6%
+  - Dominant Emotion: sad
+
+DETECTED PRODUCTS:
+  - Cow Ghee: 163 detections
+
+For detailed analysis, check the JSON file: analysis_20251006_130559_63cae437.json
