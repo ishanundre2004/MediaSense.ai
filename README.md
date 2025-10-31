@@ -8,7 +8,7 @@ npm run dev
 ```
 
 
-### Steps to Start the Frontend
+### Steps to Start the Backend
 ```bash
 cd backend
 pip install -r requirements.txt
