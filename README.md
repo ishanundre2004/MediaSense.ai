@@ -1,7 +1,5 @@
 # Project Setup and Run Instructions
 
-## 🚀 Frontend
-
 ### Steps to Start the Frontend
 ```bash
 cd frontend
